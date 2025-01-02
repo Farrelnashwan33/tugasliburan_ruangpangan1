@@ -17,7 +17,7 @@
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://github.com/Farrelnashwan33/tugasliburan_ruangpangan1") must be installed on your operating system.
 
 ## Installing Anon
 
@@ -26,13 +26,13 @@ To install **Anon**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git@github.com:Farrelnashwan33/tugasliburan_ruangpangan1.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git@github.com:Farrelnashwan33/tugasliburan_ruangpangan1.git
 ```
 
 ## Contact

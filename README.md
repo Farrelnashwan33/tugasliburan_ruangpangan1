@@ -3,8 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![Follow Instagram ]([https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social](https://www.instagram.com/ruangpanganindonesia?igsh=d3Bjc3BwbDF5NmJ4&utm_source=ig_contact_invite))]()
+[![Twitter Follow]()](_)
+[![Follow Instagram ](https://www.instagram.com/ruangpanganindonesia/](https://www.instagram.com/ruangpanganindonesia/))]()
 
 	"RuangPangan" adalah aplikasi berbasis komunitas yang menghubungkan petani, konsumen, dan usaha lokal untuk memperkuat ketahanan pangan di daerah. Aplikasi ini berfokus pada pertanian berkelanjutan, distribusi langsung dari petani ke konsumen, serta edukasi tentang budidaya tanaman mandiri.
 

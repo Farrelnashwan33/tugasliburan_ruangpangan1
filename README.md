@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
 [![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+	"RuangPangan" adalah aplikasi berbasis komunitas yang menghubungkan petani, konsumen, dan usaha lokal untuk memperkuat ketahanan pangan di daerah. Aplikasi ini berfokus pada pertanian berkelanjutan, distribusi langsung dari petani ke konsumen, serta edukasi tentang budidaya tanaman mandiri.
 
 ## Demo
 

@@ -1,11 +1,11 @@
-# Ruang Pangan Indonesia
+#  Tugas Liburan Ruang Pangan Indonesia
 
 	"RuangPangan" adalah aplikasi berbasis komunitas yang menghubungkan petani, konsumen, dan usaha lokal untuk memperkuat ketahanan pangan di daerah. Aplikasi ini berfokus pada pertanian berkelanjutan, distribusi langsung dari petani ke konsumen, serta edukasi tentang budidaya tanaman mandiri.
 
-## Demo
+## Ruang Pangan Indonesia
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Ruang Pangan Demo](https://bit.ly/Ruangpanganindonesia1")
+![Ruang Pangan Mobile Demo](https://bit.ly/Ruangpanganindonesia1")
 
 ## Prerequisites
 

@@ -1,11 +1,5 @@
 # Ruang Pangan Indonesia
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow]()](_)
-[![Follow Instagram ](https://www.instagram.com/ruangpanganindonesia/](https://www.instagram.com/ruangpanganindonesia/))]()
-
 	"RuangPangan" adalah aplikasi berbasis komunitas yang menghubungkan petani, konsumen, dan usaha lokal untuk memperkuat ketahanan pangan di daerah. Aplikasi ini berfokus pada pertanian berkelanjutan, distribusi langsung dari petani ke konsumen, serta edukasi tentang budidaya tanaman mandiri.
 
 ## Demo

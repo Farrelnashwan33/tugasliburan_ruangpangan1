@@ -19,9 +19,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://github.com/Farrelnashwan33/tugasliburan_ruangpangan1") must be installed on your operating system.
 
-## Installing Anon
+## Installing Ruang Pangan Indonesia
 
-To install **Anon**, follow these steps:
+To install **Ruangpanganindonesia**, follow these steps:
 
 Linux and macOS:
 

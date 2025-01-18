@@ -4,8 +4,8 @@
 
 ## Ruang Pangan Indonesia
 
-![Ruang Pangan Demo](https://bit.ly/Ruangpanganindonesia1")
-![Ruang Pangan Mobile Demo](https://bit.ly/Ruangpanganindonesia1")
+![Ruang Pangan Demo](https://www.figma.com/design/AevIFJEXx4S9TOtw3NLeow/Untitled?node-id=0-1&p=f&t=7jI5CF985cvfLQkV-0")
+![Ruang Pangan Mobile Demo](https://www.figma.com/design/AevIFJEXx4S9TOtw3NLeow/Untitled?node-id=0-1&p=f&t=7jI5CF985cvfLQkV-0")
 
 ## Prerequisites
 

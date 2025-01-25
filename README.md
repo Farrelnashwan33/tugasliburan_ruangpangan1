@@ -4,14 +4,14 @@
 
 ## Ruang Pangan Indonesia
 
-![Ruang Pangan Demo](https://bit.ly/Ruangpanganindonesia1")
-![Ruang Pangan Mobile Demo](https://bit.ly/Ruangpanganindonesia1")
+![Ruang Pangan Demo]("https://www.figma.com/design/AevIFJEXx4S9TOtw3NLeow/Untitled?node-id=0-1&p=f&t=7jI5CF985cvfLQkV-0")
+![Ruang Pangan Mobile Demo]("https://www.figma.com/design/AevIFJEXx4S9TOtw3NLeow/Untitled?node-id=0-1&p=f&t=7jI5CF985cvfLQkV-0")
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://github.com/Farrelnashwan33/tugasliburan_ruangpangan1") must be installed on your operating system.
+* [Git]("https://github.com/Farrelnashwan33/tugasliburan_ruangpangan1") must be installed on your operating system.
 
 ## Installing Ruang Pangan Indonesia
 
@@ -31,7 +31,7 @@ git@github.com:Farrelnashwan33/tugasliburan_ruangpangan1.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter]().
 
 ## License
 

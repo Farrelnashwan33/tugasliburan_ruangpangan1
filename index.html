@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ruang Pangan Indonesia</title>
+  
 
   <!--
     - favicon
@@ -16,6 +17,7 @@
     - custom css link
   -->
   <link rel="stylesheet" href="./assets/css/style-prefix.css">
+  <script src="" crossorigin="anonymous"></script>
 
   <!--
     - google font link
@@ -28,6 +30,58 @@
 </head>
 
 <body>
+
+
+  <div class="overlay" data-overlay></div>
+
+  <!--
+    - MODAL
+  -->
+
+  <div class="modal" data-modal>
+
+    <div class="modal-close-overlay" data-modal-overlay></div>
+
+    <div class="modal-content">
+
+      <button class="modal-close-btn" data-modal-close>
+        <ion-icon name="close-outline"></ion-icon>
+      </button>
+
+      <div class="newsletter-img">
+        <img src="/assets/images/ruangpangan.png" alt="subscribe newsletter" width="400" height="400">
+      </div>
+
+      <div class="newsletter">
+
+        <form action="#">
+
+          <div class="newsletter-header">
+
+            <h3 class="newsletter-title">Selamat Datang</h3>
+
+            <p class="newsletter-desc">
+              Masukan <b>Email Kamu</b> untuk membantu perkembangan Ruang Pangan Indonesia Lebih Maju
+            </p>
+
+          </div>
+
+          <input type="email" name="email" class="email-field" placeholder="Email Address" required>
+
+          <button type="submit" class="btn-newsletter">Dukung Kami</button>
+
+        </form>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+
+
   <!--
     - NOTIFICATION TOAST
   -->
@@ -83,19 +137,19 @@
           </li>
 
           <li>
-            <a href="#" class="social-link">
+            <a href="https://x.com/home?lang=en-id" class="social-link">
               <ion-icon name="logo-twitter"></ion-icon>
             </a>
           </li>
 
           <li>
-            <a href="#" class="social-link">
+            <a href="https://www.instagram.com/ruangpanganindonesia/" class="social-link">
               <ion-icon name="logo-instagram"></ion-icon>
             </a>
           </li>
 
           <li>
-            <a href="#" class="social-link">
+            <a href="https://www.linkedin.com/feed/" class="social-link">
               <ion-icon name="logo-linkedin"></ion-icon>
             </a>
           </li>
@@ -114,7 +168,7 @@
           <select name="currency">
 
             <option value="usd">USD &dollar;</option>
-            <option value="eur">RUPIAH & Rp; &euro;</option>
+            <option value="eur">RUPIAH & RP; &euro;</option>
 
           </select>
 
@@ -159,14 +213,12 @@
             </a>
           </button>
 
-          <button class="action-btn">
-            <ion-icon name="heart-outline"></ion-icon>
-            <span class="count">2K</span>
-          </button>
 
           <button class="action-btn">
+            <a href="/keranjang.html">
             <ion-icon name="bag-handle-outline"></ion-icon>
-            <span class="count">110</span>
+             </a>
+            <span class="count">2</span>
           </button>
 
         </div>
@@ -438,7 +490,7 @@
           </li>
 
           <li class="menu-category">
-            <a href="#" class="menu-title">Tentang Kami</a>
+            <a href="/aboutme.html" class="menu-title">Tentang Kami</a>
           </li>
 
           <li class="menu-category">
@@ -2669,7 +2721,7 @@
               <div class="showcase">
               
                 <div class="showcase-banner">
-                  <img src="/assets/images/1.jpg" alt="Trekking & Running Shoes - black" class="product-img default"
+                  <img src="/assets/images/dukuh2.jpg" alt="Trekking & Running Shoes - black" class="product-img default"
                     width="300">
                   <img src="/assets/images/2.jpg" alt="Trekking & Running Shoes - black" class="product-img hover"
                     width="300">
